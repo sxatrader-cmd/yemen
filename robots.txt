@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sxatrader-cmd.github.io/yemen/sitemap.xml
+Sitemap: https://yemen.fabletour.com/sitemap.xml
